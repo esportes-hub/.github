@@ -6,7 +6,7 @@ Conectando atletas, simplificando a organização de partidas e democratizando o
 
 Facilitar a conexão entre praticantes de esportes, eliminando barreiras para a prática esportiva e construindo uma comunidade ativa e engajada.
 
-## 💡 O Projeto
+## 💡 O projeto
 
 O Esportes Hub nasceu da necessidade real de seus fundadores em encontrar pessoas para praticar esportes. Nossa plataforma resolve desafios comuns como:
 
