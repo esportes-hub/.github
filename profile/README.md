@@ -2,11 +2,11 @@
 
 Conectando atletas, simplificando a organização de partidas e democratizando o acesso ao esporte.
 
-🎯 Nossa missão
+## 🎯 Nossa missão
 
 Facilitar a conexão entre praticantes de esportes, eliminando barreiras para a prática esportiva e construindo uma comunidade ativa e engajada.
 
-💡 O Projeto
+## 💡 O Projeto
 
 O Esportes Hub nasceu da necessidade real de seus fundadores em encontrar pessoas para praticar esportes. Nossa plataforma resolve desafios comuns como:
 
@@ -15,7 +15,7 @@ O Esportes Hub nasceu da necessidade real de seus fundadores em encontrar pessoa
 - Organizar partidas de forma eficiente
 - Localizar espaços para prática esportiva
 
-🚀 Tecnologia
+## 🚀 Tecnologia
 
 Construímos uma solução:
 
@@ -24,7 +24,7 @@ Construímos uma solução:
 - Segura e confiável
 - De código limpo e bem documentado
 
-📬 Contato
+## 📬 Contato
 
 - Site: [esporteshub.com](https://esporteshub.com)
 - E-mail: contato@esporteshub.com
